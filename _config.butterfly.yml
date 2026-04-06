@@ -1,0 +1,85 @@
+# Hexo Configuration - Customized for Ghufran Mohammad
+## Docs: https://hexo.io/docs/configuration.html
+
+# Site —— 网站基础信息
+title: Ghufran Mohammad
+subtitle: 'Preschool Educator | Creative Crafting | Lesson Sharing'
+description: 'A dedicated preschool educator sharing creative lesson plans and handcrafted teaching inspirations.'
+keywords: 'Preschool Education, Lesson Plans, Handcrafted, Ghufran Mohammad, Teaching Portfolio'
+author: Ghufran Mohammad
+language: en  # 如果她主要用英文教学，保持 en；如果在德国用德语，可以改回 de
+timezone: 'Europe/Berlin' # 根据她所在的时区修改，例如 'America/New_York' 或 'Europe/Berlin'
+
+# URL —— 网址设置
+## 如果你还没买域名，先填 Vercel 分配给你的网址，例如 https://ghufran-creative.vercel.app
+url: https://ghufran-creative-site.github.io 
+permalink: posts/:title/  # 更加整洁的链接结构
+permalink_defaults:
+pretty_urls:
+  trailing_index: true 
+  trailing_html: true 
+
+# Directory —— 目录设置
+source_dir: source
+public_dir: public
+tag_dir: tags
+archive_dir: archives
+category_dir: categories
+code_dir: downloads/code
+i18n_dir: :lang
+skip_render:
+
+# Writing —— 写作设置
+new_post_name: :title.md 
+default_layout: post
+titlecase: false 
+external_link:
+  enable: true 
+  field: site 
+  exclude: ''
+filename_case: 0
+render_drafts: false
+# 【重要修改】开启资源文件夹，这样每篇博文可以有自己独立的图片文件夹，方便管理照片
+post_asset_folder: true 
+relative_link: false
+future: true
+syntax_highlighter: highlight.js
+highlight:
+  line_number: true
+  auto_detect: false
+  tab_replace: ''
+  wrap: true
+  hljs: false
+prismjs:
+  preprocess: true
+  line_number: true
+  tab_replace: ''
+
+# Home page setting —— 首页设置
+index_generator:
+  path: ''
+  per_page: 10 # 首页每页显示多少个教案/作品卡片
+  order_by: -date # 按时间倒序排列
+
+# Category & Tag —— 分类与标签
+default_category: uncategorized
+category_map:
+tag_map:
+
+# Date / Time format —— 日期格式
+date_format: YYYY-MM-DD
+time_format: HH:mm:ss
+updated_option: 'mtime'
+
+# Pagination —— 分页
+per_page: 10
+pagination_dir: page
+
+# Extensions —— 扩展与主题
+## 确保这里已经指向了 butterfly
+theme: butterfly
+
+# Deployment —— 部署
+## 因为你使用 Vercel，它会自动读取你的 GitHub 推送，所以这里可以保持空白
+deploy:
+  type: ''
