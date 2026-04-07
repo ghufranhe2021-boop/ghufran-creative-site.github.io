@@ -1,13 +1,12 @@
 ---
-title: 编织物语
-date: 2024-03-20 12:10:00
+title: Häkelkunst
 type: "gallery"
 ---
 
 {% gallery %}
 [
-  {"url": "/img/1.png", "alt": "森林系钩针小蘑菇"},
-  {"url": "/img/5.png", "alt": "暖冬米色针织帽"},
-  {"url": "/img/2.png", "alt": "红白复古浪花发圈"}
+  {"url": "https://fastly.jsdelivr.net/gh/ghufranhe2021-boop/my-gallery@main/1.png", "alt": "Gehäkelter Waldpilz"},
+  {"url": "https://fastly.jsdelivr.net/gh/ghufranhe2021-boop/my-gallery@main/2.png", "alt": "Strickmütze"},
+  {"url": "https://fastly.jsdelivr.net/gh/ghufranhe2021-boop/my-gallery@main/3.png", "alt": "Häkel-Scrunchie"}
 ]
 {% endgallery %}
