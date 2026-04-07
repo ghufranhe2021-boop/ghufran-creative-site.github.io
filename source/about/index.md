@@ -54,19 +54,18 @@ Farben sind die Sprache der Seele. In meinen Bildern versuche ich, die bunte und
 
 In meinem Blog teile ich sowohl meine kreativen Ergebnisse als auch pädagogische Impulse:
 
-<div class="about-links" style="display: flex; gap: 15px; justify-content: center; margin-top: 25px;">
-  {% btn '/gallery/', '🎨 Mein Portfolio', 'block orange center', 'fas fa-palette' %}
-  {% btn '/categories/paedagogik/', '📚 Pädagogik-Ideen', 'block pink center', 'fas fa-lightbulb' %}
+<div class="about-links" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 25px;">
+  {% btn '/gallery/', '🎨 Mein Portfolio', 'orange larger', 'fas fa-palette' %}
+  {% btn '/categories/paedagogik/', '📚 Pädagogik-Ideen', 'pink larger', 'fas fa-lightbulb' %}
 </div>
-
----
 
 ### 📬 Kontakt
 
 Haben Sie Fragen zu meinen Arbeiten oder möchten Sie sich über pädagogische Ansätze austauschen? Ich freue mich über jede Nachricht!
 
-- **Email:** [Deine Email hier]
-- **Instagram:** [Dein Link hier]
+- **Email:** [gufhranmohammad@icloud.com]
+- **Instagram:** [https://www.instagram.com/cookies_0.01/]
+- **TikTok:** [https://www.tiktok.com/@maha88_88_4]
 
 <br>
 <center style="color: #99a9bf;">Ghufran Mohammad &copy; 2025 | Mit Liebe gestaltet</center>

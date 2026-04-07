@@ -23,7 +23,7 @@ menu:
   categories: /categories/ || fas fa-folder-open
   tags: /tags/ || fas fa-tags
   gallery: /gallery/ || fas fa-images
-  about: /about/ || fas fa-heart
+  about me: /about/ || fas fa-heart
 
   # music: /music/ || fas fa-music
   # movies: /movies/ || fas fa-video
