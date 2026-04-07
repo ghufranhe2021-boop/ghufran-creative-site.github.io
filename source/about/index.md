@@ -54,9 +54,13 @@ Farben sind die Sprache der Seele. In meinen Bildern versuche ich, die bunte und
 
 In meinem Blog teile ich sowohl meine kreativen Ergebnisse als auch pädagogische Impulse:
 
-<div class="about-links" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 25px;">
-  {% btn '/gallery/', '🎨 Mein Portfolio', 'orange larger', 'fas fa-palette' %}
-  {% btn '/categories/paedagogik/', '📚 Pädagogik-Ideen', 'pink larger', 'fas fa-lightbulb' %}
+<div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin-top: 25px;">
+  <a href="/gallery/" style="background-color: #FFA45E; color: white; padding: 12px 25px; border-radius: 50px; text-decoration: none; display: inline-block; min-width: 180px; text-align: center; font-weight: bold; transition: 0.3s; box-shadow: 0 4px 12px rgba(255, 164, 94, 0.3);">
+    🎨 Mein Portfolio
+  </a>
+  <a href="/categories/paedagogik/" style="background-color: #FF8FB1; color: white; padding: 12px 25px; border-radius: 50px; text-decoration: none; display: inline-block; min-width: 180px; text-align: center; font-weight: bold; transition: 0.3s; box-shadow: 0 4px 12px rgba(255, 143, 177, 0.3);">
+    📚 Pädagogik-Ideen
+  </a>
 </div>
 
 ### 📬 Kontakt
