@@ -18,11 +18,15 @@ nav:
   fixed: false
 
 menu:
-  # Home: / || fas fa-home
-  # List||fas fa-list:
-  #   Music: /music/ || fas fa-music
-  #   Movie: /movies/ || fas fa-video
+  home: / || fas fa-home
+  archives: /archives/ || fas fa-archive
+  categories: /categories/ || fas fa-folder-open
+  tags: /tags/ || fas fa-tags
+  gallery: /gallery/ || fas fa-images
+  about: /about/ || fas fa-heart
 
+  # music: /music/ || fas fa-music
+  # movies: /movies/ || fas fa-video
 # --------------------------------------
 # Code Blocks Settings
 # --------------------------------------
@@ -56,20 +60,20 @@ social:
 favicon: /img/favicon.png
 
 avatar:
-  img: /img/butterfly-icon.png
+  img: /img/GM.JPG
   effect: false
 
 # Disable all banner images
 disable_top_img: false
 
 # If the banner of page not setting, it will show the default_top_img
-default_top_img:
+default_top_img: /img/GM.JPG
 
 # The banner image of index page
-index_img:
+index_img: /img/GM.JPG
 
 # The banner image of archive page
-archive_img:
+archive_img: 
 
 # Note: tag page, not tags page
 tag_img:
