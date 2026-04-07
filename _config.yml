@@ -3,13 +3,14 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
-timezone: ''
+# Site
+title: Ghufrans Kreativstudio
+subtitle: 'Handgemachte Häkelkunst & Illustrationen'
+description: 'Ein kreativer Raum für einzigartige Häkelarbeiten, handgemalte Illustrationen und individuelles Kunsthandwerk von Ghufran Mohammad.'
+keywords: 'Häkeln, Handarbeit, Kunst, Illustration, DIY, Ghufran Mohammad, Deutschland, Kreativblog'
+author: Ghufran Mohammad
+language: de
+timezone: 'Europe/Berlin'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'

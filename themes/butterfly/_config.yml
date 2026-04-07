@@ -60,7 +60,7 @@ social:
 favicon: /img/favicon.png
 
 avatar:
-  img: /img/GM.JPG
+  img: /img/GM1.JPG
   effect: false
 
 # Disable all banner images
@@ -92,7 +92,7 @@ category_img:
 category_per_img:
 
 # The background image of footer
-footer_img: false
+footer_img: true
 
 # Website Background
 # Can set it to color, image URL or an array containing colors and/or image URLs
