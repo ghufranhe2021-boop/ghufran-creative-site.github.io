@@ -5,6 +5,6 @@ type: "gallery"
 ---
 
 {% gallery %}
-![](https://fastly.jsdelivr.net/gh/ghufranhe2021-boop/my-gallery@main/4.png)
-![](https://fastly.jsdelivr.net/gh/ghufranhe2021-boop/my-gallery@main/5.png)
+![1](https://fastly.jsdelivr.net/gh/ghufranhe2021-boop/my-gallery@main/4.png)
+![2](https://fastly.jsdelivr.net/gh/ghufranhe2021-boop/my-gallery@main/3.png)
 {% endgallery %}
