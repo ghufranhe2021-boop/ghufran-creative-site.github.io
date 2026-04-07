@@ -1,10 +1,10 @@
 ---
 title: Meine Handarbeits-Galerie
-date: 2026-03-20 12:00:00
+date: 2024-03-20 12:00:00
 type: "gallery"
 ---
 
 <div class="gallery-group-main">
-  {% galleryGroup 'Häkelkunst' 'Handgemachte Schätze aus Wolle' '/gallery/crochet/' 'https://fastly.jsdelivr.net/gh/ghufranhe2021-boop/my-gallery@main/1.png' %}
-  {% galleryGroup 'Kunst & Design' 'Malerei und Keramik' '/gallery/art/' 'https://fastly.jsdelivr.net/gh/ghufranhe2021-boop/my-gallery@main/4.png' %}
+  {% galleryGroup 'Häkelkunst' 'Handgemachte Schätze aus Wolle' '/crochet/' 'https://fastly.jsdelivr.net/gh/ghufranhe2021-boop/my-gallery@main/1.png' %}
+  {% galleryGroup 'Kunst & Design' 'Malerei und Keramik' '/art/' 'https://fastly.jsdelivr.net/gh/ghufranhe2021-boop/my-gallery@main/4.png' %}
 </div>
