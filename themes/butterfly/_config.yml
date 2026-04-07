@@ -52,7 +52,9 @@ code_blocks:
 social:
   # fab fa-github: https://github.com/xxxxx || Github || '#24292e'
   # fas fa-envelope: mailto:xxxxxx@gmail.com || Email || '#4a7dbe'
-
+  fab fa-instagram: https://www.instagram.com/cookies_0.01/ || Instagram || "#E1306C"
+  fab fa-tiktok: https://www.tiktok.com/@maha88_88_4|| TikTok || "#000000"
+  fas fa-envelope: mailto:gufhranmohammad@icloud.com || Email || "#FFA45E"
 # --------------------------------------
 # Image Settings
 # --------------------------------------
@@ -290,15 +292,15 @@ aside:
     enable: true
     description:
     button:
-      enable: true
+      enable: false
       icon: fab fa-github
       text: Follow Me
       link: https://github.com/xxxxxx
   card_announcement:
-    enable: true
+    enable: false
     content: This is my Blog
   card_recent_post:
-    enable: true
+    enable: false
     # If set 0 will show all
     limit: 5
     # Sort: date / updated
