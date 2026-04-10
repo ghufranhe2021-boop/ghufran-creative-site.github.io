@@ -12,7 +12,7 @@ keywords: "Gefühle, Emotionale Intelligenz, Pantomime, Kindergarten, Empathie, 
 abbrlink: d5e6f7g8
 date: 2026-02-04 11:10:00
 description: "Ein bewegungsorientiertes Angebot für 5-6-jährige Kinder zur Förderung der emotionalen Wahrnehmung und des Perspektivwechsels durch Pantomime."
-top_img: 
+top_img: https://fastly.jsdelivr.net/gh/ghufranhe2021-boop/my-gallery@main/gefuhle.png
 cover: 
 ---
 

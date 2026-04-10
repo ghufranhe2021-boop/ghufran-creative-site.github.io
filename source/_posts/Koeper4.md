@@ -13,7 +13,7 @@ abbrlink: cfb8e83d
 date: 2026-03-26 09:30:00
 description: "Laufen, Springen, Balancieren: Ein vielseitiger Bewegungsparcours ermöglicht Kindern, ihre körperlichen Grenzen spielerisch zu erkunden und ihre motorischen Fähigkeiten individuell zu erweitern."
 top_img: 
-cover: 
+cover: https://fastly.jsdelivr.net/gh/ghufranhe2021-boop/my-gallery@main/koerper4.png
 ---
 
 # Parcours: Motorische Förderung durch individuelle Herausforderungen

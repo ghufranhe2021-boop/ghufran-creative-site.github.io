@@ -68,8 +68,7 @@ In meinem Blog teile ich sowohl meine kreativen Ergebnisse als auch pädagogisch
 Haben Sie Fragen zu meinen Arbeiten oder möchten Sie sich über pädagogische Ansätze austauschen? Ich freue mich über jede Nachricht!
 
 - **Email:** [gufhranmohammad@icloud.com]
-- **Instagram:** [https://www.instagram.com/cookies_0.01/]
-- **TikTok:** [https://www.tiktok.com/@maha88_88_4]
+
 
 <br>
 <center style="color: #99a9bf;">Ghufran Mohammad &copy; 2025 | Mit Liebe gestaltet</center>

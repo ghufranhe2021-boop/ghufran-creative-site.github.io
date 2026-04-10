@@ -13,7 +13,7 @@ abbrlink: a1b2c3d4
 date: 2026-03-04 10:00:00
 description: "Wie wird Abstraktes begreifbar? Ein mathematisches Angebot für 4-jährige Kinder, das die Addition durch das Fahren eines Spielzeugautos auf einer Zahlenleiste visualisiert."
 top_img: 
-cover: https://example.com/path-to-your-math-car-image.png
+cover: https://fastly.jsdelivr.net/gh/ghufranhe2021-boop/my-gallery@main/rechnen.png
 ---
 
 # „Wir rechnen mit dem Rennauto“ – Mathematik zum Anfassen

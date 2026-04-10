@@ -13,7 +13,7 @@ abbrlink: eeb9c92a
 date: 2026-03-19 11:10:00
 description: "Süß, sauer, salzig oder bitter? Als Geschmacks-Detektive erforschen Kinder spielerisch ihre Zunge und schärfen ihre Wahrnehmung durch den gezielten Entzug des Sehens."
 top_img: 
-cover: 
+cover: https://fastly.jsdelivr.net/gh/ghufranhe2021-boop/my-gallery@main/koerper2.png
 ---
 
 # Geschmacks-Detektive – Wir entdecken unsere Zunge
